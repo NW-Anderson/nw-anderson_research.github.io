@@ -2,6 +2,14 @@
 layout: page
 title: Who is ready to make some science?
 ---
+- Cave Johnson
+<br>
+### Publications
+* Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex genetic architectures of adaptation, sexual dimorphism, and genotype by environment interactions by partitioning of mean phenotypes. Journal of Evolutionary Biology. 2019; 32:4 369-379. https://doi.org/10.1111/jeb.13421
+
+* Anderson N. W. and H. Blackmon. How much water is in the fountain of youth? In preparation.
+
+* Anderson N. W. and H. Blackmon. Ancestral state test: a method for inferring the impact of causal relationships between continuous and discrete trait evolution. In preparation.
 
 A [Bootstrap 4](https://getbootstrap.com/) start up project for [Github Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).
 

@@ -3,10 +3,14 @@ layout: page
 title: Who is ready to make some science?
 ---
 ~ *Cave Johnson*
-<br>
+
+---
+
 ### Research
 
 Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles and mutation. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
+
+---
 
 ### Publications
 
@@ -15,6 +19,8 @@ Development of statistical methods for analysis of phylogenetics or other system
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Genetic architecture fundamentally affects the way that traits evolve. However, the mapping of genotype to phenotype includes complex interactions with the environment or even the sex of an organism that can modulate the expressed phenotype. Line cross analysis is a powerful quantitative genetics method to infer genetic architecture by analyzing the mean phenotype value of two diverged strains and a series of subsequent crosses and backcrosses. However, it has been difficult to account for complex interactions with the environment or sex within this framework. We have developed extensions to line cross analysis that allow for gene by environment and gene by sex interactions. Using extensive simulations studies and reanalysis of empirical data, we show that our approach can account for both unintended environmental variation when crosses cannot be reared in a common garden and can be used to test for the presence of gene by environment or gene by sex interactions. In analyses that fail to account for environmental variation between crosses we find that line cross analysis has low power and high false positive rates. However, we illustrate that accounting for environmental variation allows for the inference of adaptive divergence, and that accounting for sex differences in phenotypes allows practitioners to infer the genetic architecture of sexual dimorphism.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[R documentation](https://rdrr.io/cran/SAGA/)
+
+---
 
 ### Current Projects
 
@@ -53,7 +59,7 @@ inversions.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://docs.google.com/presentation/d/1pk9tAbmJ4eOlU8Y5A-5d2FPTz_BxWOH-tNLFeFKgdCU/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Talk](https://docs.google.com/presentation/d/1Pwcj7orPf9Db11KuQuzQ_T8qJb2X_6rngYaSdsLDUtE/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/NW-Anderson/TempCorr).
 
-
+---
 
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
 

@@ -4,13 +4,13 @@ title: Who is ready to make some science?
 ---
 ~ *Cave Johnson*
 
-<hr>
+<hr color = 'white'>
 
 ### Research
 
 Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles and mutation. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
 
-<hr>
+<hr color = 'white>
 
 ### Publications
 

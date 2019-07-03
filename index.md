@@ -17,7 +17,7 @@ Development of statistical methods for analysis of phylogenetics or other system
 
 * **How much water is in the fountain of youth?** 
 
-      Among species that have separate sexes, sex chromosomes are nearly ubiquitous and yet
+`` Among species that have separate sexes, sex chromosomes are nearly ubiquitous and yet
 there are many unanswered question with regard to their evolutionary dynamics. XY
 sex chromosome systems are one of the most common methods of sex determination and
 have long interested researchers. Normally X and Y chromosomes differentiate over time
@@ -32,16 +32,16 @@ we are able to determine the parameter space under which the fountain of youth c
 cannot preserve similarity between the X and Y chromosome. These results appear to
 support fountain of youth hypothesis by showing the limits to the canonical model of
 sex chromosome evolution and grant insight into the fitness effect of sex chromosome
-inversions.
+inversions.``
 
-      [Manuscript in preparation](https://docs.google.com/document/d/1mfFIwkd4EN3QPzfqcI2Nm-oDbcBi21I5nF7PLdXgnlY/edit?usp=sharing). <br> [Poster](https://drive.google.com/file/d/1z3TgDcqhsfpzkswb43SNzQeYvo4kCNtR/view?usp=sharing). <br> [Gitbub.](https://github.com/NW-Anderson/FOY)
+``[Manuscript in preparation](https://docs.google.com/document/d/1mfFIwkd4EN3QPzfqcI2Nm-oDbcBi21I5nF7PLdXgnlY/edit?usp=sharing). <br> [Poster](https://drive.google.com/file/d/1z3TgDcqhsfpzkswb43SNzQeYvo4kCNtR/view?usp=sharing). <br> [Gitbub.](https://github.com/NW-Anderson/FOY)``
 
 
 * **Ancestral state test: a method for inferring the impact of causal relationships between continuous and discrete trait evolution.**
 
-      Co-evolutionary relationships where the value of a continuous trait affects the evolution of a discrete trait remain difficult to study.  We present a novel comparative method, to be included in the existing R package evobiR, that tests whether a discrete trait transitions when a continuous trait has values more extreme than expected if both traits were evolving independently.  We show that this approach has acceptable type 1 error rates, even when its assumptions are violated, but has low power unless the number of taxa is large. Finally we compare this approach to existing methods that can be used to explore similar hypotheses.  The types of questions that this approach allows us to test are common in evolutionary biology and, unlike existing approaches, the ancestral condition test uses all available data and provides more information than existing methods.
+``Co-evolutionary relationships where the value of a continuous trait affects the evolution of a discrete trait remain difficult to study.  We present a novel comparative method, to be included in the existing R package evobiR, that tests whether a discrete trait transitions when a continuous trait has values more extreme than expected if both traits were evolving independently.  We show that this approach has acceptable type 1 error rates, even when its assumptions are violated, but has low power unless the number of taxa is large. Finally we compare this approach to existing methods that can be used to explore similar hypotheses.  The types of questions that this approach allows us to test are common in evolutionary biology and, unlike existing approaches, the ancestral condition test uses all available data and provides more information than existing methods.``
 
-      [Manuscript in preparation](https://drive.google.com/file/d/1qbt7xyl8Zx57zZjByoCz_Q16L7DEoZLj/view?usp=sharing). <br> [Github](https://github.com/NW-Anderson/Ancestral-Condition-Test).
+``[Manuscript in preparation](https://drive.google.com/file/d/1qbt7xyl8Zx57zZjByoCz_Q16L7DEoZLj/view?usp=sharing). <br> [Github](https://github.com/NW-Anderson/Ancestral-Condition-Test).``
 
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
 

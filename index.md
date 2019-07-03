@@ -6,6 +6,7 @@ title: Who is ready to make some science?
 <br>
 ### Research
 
+Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles and mutation. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
 
 ### Publications
 
@@ -13,8 +14,30 @@ title: Who is ready to make some science?
 
 ### Current Projects
 
-* Anderson N. W. and H. Blackmon. How much water is in the fountain of youth? [In preparation](https://docs.google.com/document/d/1mfFIwkd4EN3QPzfqcI2Nm-oDbcBi21I5nF7PLdXgnlY/edit?usp=sharing).
+'''
+* **How much water is in the fountain of youth?** 
 
+Among species that have separate sexes, sex chromosomes are nearly ubiquitous and yet
+there are many unanswered question with regard to their evolutionary dynamics. XY
+sex chromosome systems are one of the most common methods of sex determination and
+have long interested researchers. Normally X and Y chromosomes differentiate over time
+as the Y chromosome decays. However, not all species experience this Y decay. The
+fountain of youth hypothesis suggests that imperfect sexual development and deleterious
+mutations on Y chromosomes may act together as a force to maintain homology between
+the X and Y. However, the viability of the fountain of youth hypothesis has not been well
+explored mathematically. Using both finite and infinite population genetic models we have
+shown that this process cannot completely eliminate sexually antagonistic selection – the
+force that is thought to lead to the decay of Y chromosomes. Using our modeling approach
+we are able to determine the parameter space under which the fountain of youth can and
+cannot preserve similarity between the X and Y chromosome. These results appear to
+support fountain of youth hypothesis by showing the limits to the canonical model of
+sex chromosome evolution and grant insight into the fitness effect of sex chromosome
+inversions.
+
+[Manuscript in preparation](https://docs.google.com/document/d/1mfFIwkd4EN3QPzfqcI2Nm-oDbcBi21I5nF7PLdXgnlY/edit?usp=sharing). 
+[Poster](https://drive.google.com/file/d/1z3TgDcqhsfpzkswb43SNzQeYvo4kCNtR/view?usp=sharing).
+[Gitbub](
+'''
 * Anderson N. W. and H. Blackmon. Ancestral state test: a method for inferring the impact of causal relationships between continuous and discrete trait evolution. [In preparation](https://drive.google.com/file/d/1qbt7xyl8Zx57zZjByoCz_Q16L7DEoZLj/view?usp=sharing).
 
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)

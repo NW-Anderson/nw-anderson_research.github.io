@@ -32,11 +32,11 @@ plugins:
 # A list of the pages to display in the navigation bar
 header_pages:
   - Title: Ongoing Projects
-    url /projects.html
+ 
   - Title: Publications and Presentations
-    url /publications
+    
   - Title: CV
-    url /cv
+    
   
   
 

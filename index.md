@@ -2,7 +2,7 @@
 layout: page
 title: Who is ready to make some science?
 ---
-~ *Cave Johnson*
+~ *Cave Johnson* - vital participant in the 1968 Senate Hearings on missing astronauts
 
 <hr color = '#fff'> 
 

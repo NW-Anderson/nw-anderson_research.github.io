@@ -8,8 +8,6 @@ title: Who is ready to make some science?
 
 ### Education
 
-<img src="20190614_202257(1).jpg" alt="">
-
 BS in Applied Mathematics Texas A&M December 2019 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
 

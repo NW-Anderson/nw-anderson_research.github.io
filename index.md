@@ -9,7 +9,7 @@ title: Who is ready to make some science?
 ### Education
 <div class="split left">
   <div class="centered">
-    <img src="pic_trulli.jpg" alt="Italian Trulli">
+    <img src="20190614_202257(1).jpg" alt="">
   </div>
 </div>
 

@@ -4,13 +4,13 @@ title: Who is ready to make some science?
 ---
 ~ *Cave Johnson*
 
-<hr color = '#3A3F44'>
+<hr color = '#fff'>
 
 ### Research
 
 Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles and mutation. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
 
-<hr color = '#3A3F44'>
+<hr color = '#fff'>
 
 ### Publications
 
@@ -20,7 +20,7 @@ Development of statistical methods for analysis of phylogenetics or other system
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[R documentation](https://rdrr.io/cran/SAGA/)
 
-<hr color = '#3A3F44'>
+<hr color = '#fff'>
 
 ### Current Projects
 
@@ -44,7 +44,7 @@ Development of statistical methods for analysis of phylogenetics or other system
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://docs.google.com/presentation/d/1pk9tAbmJ4eOlU8Y5A-5d2FPTz_BxWOH-tNLFeFKgdCU/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Talk](https://docs.google.com/presentation/d/1Pwcj7orPf9Db11KuQuzQ_T8qJb2X_6rngYaSdsLDUtE/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/NW-Anderson/TempCorr).
 
-<hr color = '#3A3F44'>
+<hr color = '#fff'>
 
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
 

@@ -7,10 +7,22 @@ title: Who is ready to make some science?
 <hr color = '#fff'> 
 
 ### Education
+<div class="split left">
+  <div class="centered">
+    <img src="pic_trulli.jpg" alt="Italian Trulli">
+  </div>
+</div>
 
-BS in Applied Mathematics Texas A&M December 2019
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
+<div class="split right">
+  <div class="centered">
+    BS in Applied Mathematics Texas A&M December 2019 <br> 
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
+  </div>
+</div>
 
+
+
+<hr color = '#fff'>
 
 ### Research
 

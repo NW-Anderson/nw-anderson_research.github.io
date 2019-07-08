@@ -7,15 +7,13 @@ title: Who is ready to make some science?
 <hr color = '#fff'> 
 
 ### Education
-
-BS in Applied Mathematics Texas A&M December 2019 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
-
+<img src=”20190614_202257(1).jpg” align=”right”/>BS in Applied Mathematics Texas A&M December 2019 <br> 
+         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
 <hr color = '#fff'>
 
 ### Research
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have been an undergraduate researcher in the lab of  Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work as an undergraduate has focused on phylogenetics and population genetic modelling. Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles and mutation. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have been an undergraduate researcher in the lab of  Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work as an undergraduate has focused on phylogenetics and population genetic modelling. Development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. The applications of stochastic simulations to evolutionary theory. Namely, multilocus simulaiton of sexually antagonistic alleles under compex sex determination and recombination. Statistical phylogenetic analysis of discrete and continuous trait evolution. 
 
 <hr color = '#fff'>
 

@@ -7,8 +7,7 @@ title: Who is ready to make some science?
 <hr color = '#fff'> 
 
 ### Education
-<img src=”20190614_202257(1).jpg” ALIGN=”right”>
-BS in Applied Mathematics Texas A&M December 2019 <br> 
+<img src=”20190614_202257(1).jpg” ALIGN=”right”>BS in Applied Mathematics Texas A&M December 2019 <br> 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology</div>
 
 <hr color = '#fff'>

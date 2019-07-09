@@ -7,7 +7,7 @@ title: Who is ready to make some science?
 <hr color = '#fff'> 
 
 ### Education
-![Nathan Anderson](pic.jpg =2016x1512)
+![Nathan Anderson](pic.jpg){: width=1512 height=2016}
 BS in Applied Mathematics Texas A&M December 2019 <br> 
          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Minor in Biology
 <hr color = '#fff'>

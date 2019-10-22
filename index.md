@@ -50,6 +50,16 @@ Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex gene
 
 <hr color = '#fff'>
 
+### Competitions
+
+**On the Origin of Tacos**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Uncovering the evolutionary relationship between species is a central feature of evolutionary biology. In recent years, this work has been done using sequenced genomes, molecular clocks and phylogenetic comparative methods, however, prior to these advances researchers uncovered the hierarchical species relationships by comparing morphology. Given a dataset describing the tacos sold throughout the United States, we clustered these samples into morphological species based on ingredients and inferred the relationships between these species by constructing a morphological phylogeny using phylogenetic comparative methods. Furthermore, we were able to infer regional populations of our tacos using a kmeans clustering. Surprisingly, our morphological species seemed to be evenly spread throughout the regional populations, and certain species were not favored in any particular regions. Finally, we inferred the evolution of different morphological traits (different ingredients) along our phylogeny and were able to observe the species level evolution of taco types and to estimate the ancestral taco type at the root of our phylogenetic tree.</q>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DevPost Project](https://devpost.com/software/on-the-origins-of-tacos?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/MichelleJonika/datathon2019/tree/master/goldmansachs/final).
+
+<hr color = '#fff'>
+
 ### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
 
 

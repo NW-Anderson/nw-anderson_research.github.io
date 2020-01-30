@@ -13,7 +13,7 @@ BS in Applied Mathematics Texas A&M December 2019: Minor in Biology
 
 ### Research
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been an undergraduate researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work as an undergraduate has focused on phylogenetics and population genetic modelling, development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin, the applications of stochastic simulations to evolutionary theory. Namely, multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination and development of programs for the statistical phylogenetic analysis of discrete and continuous trait evolution.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been an undergraduate researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work as an undergraduate has focused on phylogenetics and population genetic modelling, development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin, the applications of stochastic simulations to evolutionary theory. Namely, multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination, statistical phylogenetic analysis of discrete and continuous trait evolution.
 
 <hr color = '#fff'>
 

@@ -47,17 +47,22 @@ Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of C
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://drive.google.com/file/d/1z3TgDcqhsfpzkswb43SNzQeYvo4kCNtR/view?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github.](https://github.com/NW-Anderson/FOY)
 
-**The Temporal Contingency Test: discovering correlation in the evolution of discrete traits.**
+**The Temporal Contingency Test: discovering correlation in the evolution of discrete traits**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>One of the central questions of evolutionary biology is how traits interact with each other over the course of evolution.  However, most of the methods available for understanding correlation or contingency in the evolution of discrete traits are based on detecting differences in the rate of transitions in one trait when it is associated with a specific state of the other trait.  These methods lead to several known problems.  We solve these problems by developing an approach that focuses on temporal contingencies in the transitions of discrete traits.  Our statistical approach can determine whether transitions in one trait lead to transitions in a second trait more quickly than would be expected under a model where the two traits evolve independently.</q>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://docs.google.com/presentation/d/1pk9tAbmJ4eOlU8Y5A-5d2FPTz_BxWOH-tNLFeFKgdCU/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Talk](https://docs.google.com/presentation/d/1Pwcj7orPf9Db11KuQuzQ_T8qJb2X_6rngYaSdsLDUtE/edit?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/NW-Anderson/TempCorr).
+
+**Recombination Rate Response to Reductions in Population Size and Environmental Perturbations**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>
 
 <hr color = '#fff'>
 
 ### Competitions
 
 **On the Origin of Tacos**
+
 **-Texas A&M Datathon 2019**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Uncovering the evolutionary relationship between species is a central feature of evolutionary biology. In recent years, this work has been done using sequenced genomes, molecular clocks and phylogenetic comparative methods, however, prior to these advances researchers uncovered the hierarchical species relationships by comparing morphology. Given a dataset describing the tacos sold throughout the United States, we clustered these samples into morphological species based on ingredients and inferred the relationships between these species by constructing a morphological phylogeny using phylogenetic comparative methods. Furthermore, we were able to infer regional populations of our tacos using a kmeans clustering. Surprisingly, our morphological species seemed to be evenly spread throughout the regional populations, and certain species were not favored in any particular regions. Finally, we inferred the evolution of different morphological traits (different ingredients) along our phylogeny and were able to observe the species level evolution of taco types and to estimate the ancestral taco type at the root of our phylogenetic tree.</q>

@@ -2,12 +2,13 @@
 layout: page
 title: Nathan W. Anderson
 ---
-~ *Cave Johnson*
+
 
 <hr color = '#fff'> 
 
 ### Who is ready to make some science? <br>
 ~ *Cave Johnson*
+
 ![Nathan Anderson](pic.jpg){:height='378px' width='504px'}
 BS in Applied Mathematics Texas A&M December 2019: <br>
 Minor in Biology

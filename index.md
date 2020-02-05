@@ -10,6 +10,7 @@ title: Nathan W. Anderson
 ~ *Cave Johnson*
 
 ![Nathan Anderson](pic.jpg){:height='378px' width='504px'}
+
 BS in Applied Mathematics Texas A&M December 2019: <br>
 Minor in Biology
 <hr color = '#fff'>

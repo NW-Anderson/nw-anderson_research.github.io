@@ -6,7 +6,7 @@ title: Who is ready to make some science?
 
 <hr color = '#fff'> 
 
-### Education
+### Nathan W. Anderson
 ![Nathan Anderson](pic.jpg){:height='378px' width='504px'}
 BS in Applied Mathematics Texas A&M December 2019: 
 Minor in Biology

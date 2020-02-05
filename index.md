@@ -8,22 +8,34 @@ title: Who is ready to make some science?
 
 ### Education
 ![Nathan Anderson](pic.jpg){:height='378px' width='504px'}
-BS in Applied Mathematics Texas A&M December 2019: Minor in Biology
+BS in Applied Mathematics Texas A&M December 2019: 
+Minor in Biology
 <hr color = '#fff'>
 
 ### Research
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been an undergraduate researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work as an undergraduate has focused on phylogenetics and population genetic modelling, development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin, the applications of stochastic simulations to evolutionary theory. Namely, multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination, statistical phylogenetic analysis of discrete and continuous trait evolution.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work has focused on phylogenetics and population genetic modelling, development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. Namely, multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination, statistical phylogenetic analysis of discrete and continuous trait evolution. I also lead a large scale experimental evolution project studying recombination rate adaptation to multilocus selection and changes in population structure. 
 
 <hr color = '#fff'>
 
 ### Publications
+
+**SAGA2.0** 
 
 Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex genetic architectures of adaptation, sexual dimorphism, and genotype by environment interactions by partitioning of mean phenotypes. Journal of Evolutionary Biology. 2019; 32:4 369-379. <https://doi.org/10.1111/jeb.13421>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Genetic architecture fundamentally affects the way that traits evolve. However, the mapping of genotype to phenotype includes complex interactions with the environment or even the sex of an organism that can modulate the expressed phenotype. Line cross analysis is a powerful quantitative genetics method to infer genetic architecture by analyzing the mean phenotype value of two diverged strains and a series of subsequent crosses and backcrosses. However, it has been difficult to account for complex interactions with the environment or sex within this framework. We have developed extensions to line cross analysis that allow for gene by environment and gene by sex interactions. Using extensive simulations studies and reanalysis of empirical data, we show that our approach can account for both unintended environmental variation when crosses cannot be reared in a common garden and can be used to test for the presence of gene by environment or gene by sex interactions. In analyses that fail to account for environmental variation between crosses we find that line cross analysis has low power and high false positive rates. However, we illustrate that accounting for environmental variation allows for the inference of adaptive divergence, and that accounting for sex differences in phenotypes allows practitioners to infer the genetic architecture of sexual dimorphism.</q> 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/coleoguy/SAGA2)
+
+**Ancestral Condition Test**
+
+Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of Continuous Traits on the Evolution of Discrete Traits: The Ancestral Condition Test. In Review.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Analyses of the co-evolution of multiple traits has the potential to reveal the drivers and limits to biological evolution. A variety of methods are available to study the interaction between either two continuous traits or a discrete trait that impacts the evolution of a continuous trait. However, few methods are available to study the impact of a continuous trait on the evolution of a discrete trait. Here we present the ancestral condition test, a new comparative method that evaluates whether a binary trait tends to transition when a continuous trait has values more extreme than expected if both traits were evolving independently. This approach leverages ancestral state estimates of both the continuous and the binary trait to test whether extreme values of the continuous trait are associated with transitions in the binary trait, and to assess statistical significance.  We explore the robustness of our approach under a range of parameter values and patterns of trait evolution. We find that either a relatively strong contingency between the two traits or a large number of taxa is required to detect the underlying relationships reliably. Statistical power of the test is highest when the binary trait evolves unidirectionally, and we find that the false-positive rate remains acceptable for a bidirectionally evolving binary trait. In comparison to existing methods that might be employed, we show that the ancestral condition test has both higher power and a lower false-positive rate. The types of questions that this approach allows us to test are common in evolutionary biology and, unlike existing methods, the ancestral condition test incorporates the temporal order of transitions – moving a step closer to inferring causality rather than merely identifying correlation. An implementation of this test is distributed in the r package evobiR.
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://drive.google.com/open?id=1xWjilhFZ34JdqAH0Sq6QrtmwTxlXyfsW). <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/NW-Anderson/Ancestral-Condition-Test).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <hr color = '#fff'>
 
@@ -34,13 +46,6 @@ Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex gene
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Among species that have separate sexes, sex chromosomes are nearly ubiquitous and yet there are many unanswered question with regard to their evolutionary dynamics. XY sex chromosome systems are one of the most common methods of sex determination and have long interested researchers. Normally X and Y chromosomes differentiate over time as the Y chromosome decays. However, not all species experience this Y decay. The fountain of youth hypothesis suggests that imperfect sexual development and deleterious mutations on Y chromosomes may act together as a force to maintain homology between the X and Y. However, the viability of the fountain of youth hypothesis has not been well explored mathematically. Using both finite and infinite population genetic models we have shown that this process cannot completely eliminate sexually antagonistic selection – the force that is thought to lead to the decay of Y chromosomes. Using our modeling approach we are able to determine the parameter space under which the fountain of youth can and cannot preserve similarity between the X and Y chromosome. These results appear to support fountain of youth hypothesis by showing the limits to the canonical model of sex chromosome evolution and grant insight into the fitness effect of sex chromosome inversions.</q>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://drive.google.com/file/d/1z3TgDcqhsfpzkswb43SNzQeYvo4kCNtR/view?usp=sharing). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github.](https://github.com/NW-Anderson/FOY)
-
-**Ancestral State Test: a method for inferring the impact of causal relationships between continuous and discrete trait evolution.**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Co-evolutionary relationships where the value of a continuous trait affects the evolution of a discrete trait remain difficult to study.  We present a novel comparative method, to be included in the existing R package evobiR, that tests whether a discrete trait transitions when a continuous trait has values more extreme than expected if both traits were evolving independently.  We show that this approach has acceptable type 1 error rates, even when its assumptions are violated, but has low power unless the number of taxa is large. Finally we compare this approach to existing methods that can be used to explore similar hypotheses.  The types of questions that this approach allows us to test are common in evolutionary biology and, unlike existing approaches, the ancestral condition test uses all available data and provides more information than existing methods.</q>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Poster](https://drive.google.com/open?id=1xWjilhFZ34JdqAH0Sq6QrtmwTxlXyfsW). <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/NW-Anderson/Ancestral-Condition-Test).&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 **The Temporal Contingency Test: discovering correlation in the evolution of discrete traits.**
 

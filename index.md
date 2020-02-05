@@ -55,14 +55,15 @@ Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of C
 
 **Recombination Rate Response to Reductions in Population Size and Environmental Perturbations**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Recombination is an important force that impacts response to selection1, genetic variation2, and the fate of introgressed genes3. Experimental evolution experiments have shown that recombination rate can respond to both direct selection4 and strong selection on unrelated traits5. Furthermore, theoretical studies demonstrate that small population size6 and multi-locus selection7 can lead to increased recombination rate. Indeed, indirect selection and small founding populations have been hypothesized as the source of differences in recombination rate between closely related island species of Drosophila8. Domesticated plants have shown a consistent increase in the recombination rate compared to their wild proginators9. Domestication involves both small population sizes and strong multi-locus selection. However, we lack a clear understanding of the respective contribution of small population size and selection acting individually, and any interaction when they cooccur, to observed increases in recombination rate. Further, long-term trends in recombination rates following change in environment and population size have yet to be empirically explored. Without understanding how recombination rates respond to selective forces, there is little hope of understanding how and why recombination rates vary across the tree of life.  The proposed experiment will allow me to quantify the impacts of population size and indirect selection on the evolution of recombination rates.</q>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research Proposal](https://drive.google.com/file/d/1yZTOS62rn3B-kXRfiIHdc7JbmgR205FM/view?usp=sharing). 
 
 <hr color = '#fff'>
 
 ### Competitions
 
-**On the Origin of Tacos**
-
+**On the Origin of Tacos** <br>
 **-Texas A&M Datathon 2019**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Uncovering the evolutionary relationship between species is a central feature of evolutionary biology. In recent years, this work has been done using sequenced genomes, molecular clocks and phylogenetic comparative methods, however, prior to these advances researchers uncovered the hierarchical species relationships by comparing morphology. Given a dataset describing the tacos sold throughout the United States, we clustered these samples into morphological species based on ingredients and inferred the relationships between these species by constructing a morphological phylogeny using phylogenetic comparative methods. Furthermore, we were able to infer regional populations of our tacos using a kmeans clustering. Surprisingly, our morphological species seemed to be evenly spread throughout the regional populations, and certain species were not favored in any particular regions. Finally, we inferred the evolution of different morphological traits (different ingredients) along our phylogeny and were able to observe the species level evolution of taco types and to estimate the ancestral taco type at the root of our phylogenetic tree.</q>

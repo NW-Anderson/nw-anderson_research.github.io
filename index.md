@@ -1,23 +1,14 @@
 ---
 layout: page
-title: Nathan W. Anderson
+title: Who is ready to make some science?
 ---
-
+~ *Cave Johnson*
 
 <hr color = '#fff'> 
 
-### Who is ready to make some science? <br>
-~ *Cave Johnson*
 
-![Nathan Anderson](pic.jpg){:height='378px' width='504px'}
 
-BS in Applied Mathematics Texas A&M December 2019: <br>
-Minor in Biology
-<hr color = '#fff'>
-
-### Research
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work has focused on phylogenetics and population genetic modelling, development of statistical methods for analysis of phylogenetics or other systems where individuals share a common origin. Namely, multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination, statistical phylogenetic analysis of discrete and continuous trait evolution. I also lead a large scale experimental evolution project studying recombination rate adaptation to multilocus selection and changes in population structure. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work has focused on recombination rate evolution, phylogenetics and population genetic modelling, statistical methods for analysis of of trait evolution. Namely, the development of multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination systems, and the statistical analysis of discrete and continuous trait evolution in a phylogenetic framework. I also lead a large scale experimental evolution project studying recombination rate adaptation to multilocus selection and changes in population structure. 
 
 <hr color = '#fff'>
 
@@ -63,18 +54,3 @@ Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of C
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research Proposal](https://drive.google.com/file/d/1pQb7_S9QV1BuahAXSTACTqINgDutQd3r/view?usp=sharing). 
 
 <hr color = '#fff'>
-
-### Competitions
-
-**On the Origin of Tacos** <br>
-**-Texas A&M Datathon 2019**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Uncovering the evolutionary relationship between species is a central feature of evolutionary biology. In recent years, this work has been done using sequenced genomes, molecular clocks and phylogenetic comparative methods, however, prior to these advances researchers uncovered the hierarchical species relationships by comparing morphology. Given a dataset describing the tacos sold throughout the United States, we clustered these samples into morphological species based on ingredients and inferred the relationships between these species by constructing a morphological phylogeny using phylogenetic comparative methods. Furthermore, we were able to infer regional populations of our tacos using a kmeans clustering. Surprisingly, our morphological species seemed to be evenly spread throughout the regional populations, and certain species were not favored in any particular regions. Finally, we inferred the evolution of different morphological traits (different ingredients) along our phylogeny and were able to observe the species level evolution of taco types and to estimate the ancestral taco type at the root of our phylogenetic tree.</q>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DevPost Project](https://devpost.com/software/on-the-origins-of-tacos?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/MichelleJonika/datathon2019/tree/master/goldmansachs/final).
-
-<hr color = '#fff'>
-
-### [CV](https://docs.google.com/document/d/1x__x_N1p2K2cdQtj4fG9xxhNSBCTvy_BpAZppW_HBHY/edit?usp=sharing)
-
-

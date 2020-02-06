@@ -13,10 +13,13 @@
           {%- assign my_page = site.pages | where: "path", path | first -%}
           {%- if my_page.title -%}
           <li class="nav-item">
-            <a class="nav-link" href="https://www.researchgate.net/profile/Nathan_Anderson17">{{ my_page.title | escape }}</a>
+            <a class="nav-link" href="https://www.researchgate.net/profile/Nathan_Anderson17">Research Gate</a>
           </li>
           {%- endif -%}
         {% endfor -%}
+        <li class="nav-item">
+          <a class="nav-link" href="https://www.nw-anderson.github.io">Home</a>
+        </li>
         <li class="nav-item">
           <a class="nav-link" href="https://github.com/NW-Anderson">Fork me on Github</a>
         </li>

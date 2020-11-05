@@ -21,6 +21,14 @@ Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex gene
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Genetic architecture fundamentally affects the way that traits evolve. However, the mapping of genotype to phenotype includes complex interactions with the environment or even the sex of an organism that can modulate the expressed phenotype. Line cross analysis is a powerful quantitative genetics method to infer genetic architecture by analyzing the mean phenotype value of two diverged strains and a series of subsequent crosses and backcrosses. However, it has been difficult to account for complex interactions with the environment or sex within this framework. We have developed extensions to line cross analysis that allow for gene by environment and gene by sex interactions. Using extensive simulations studies and reanalysis of empirical data, we show that our approach can account for both unintended environmental variation when crosses cannot be reared in a common garden and can be used to test for the presence of gene by environment or gene by sex interactions. In analyses that fail to account for environmental variation between crosses we find that line cross analysis has low power and high false positive rates. However, we illustrate that accounting for environmental variation allows for the inference of adaptive divergence, and that accounting for sex differences in phenotypes allows practitioners to infer the genetic architecture of sexual dimorphism.</q> 
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/coleoguy/Sex-Autosome-Fusion)
+
+**The Probability of Fusions Joining Sex Chromosomes and Autosomes**
+
+Anderson N.W., C. E. Hjelmen and H. Blackmon. The Probability of Fusions Joining Sex Chromosomes and Autosomes. Biology Letters. Accepted.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Chromosome fusion and fission are primary mechanisms of karyotype evolution. In particular, the fusion of a sex chromosome and an autosome has been proposed as a mechanism to resolve intralocus sexual antagonism. If sexual antagonism is common throughout the genome, we should expect to see an excess of fusions that join sex chromosomes and autosomes. Here, we present a null model that provides the probability of a sex chromosome autosome fusion, assuming all chromosomes have an equal probability of being involved in a fusion. This closed-form expression is applicable to both male and female heterogametic sex chromosome systems and can accommodate unequal proportions of fusions originating in males and females. We find that over 25% of all chromosomal fusions are expected to join a sex chromosome and an autosome whenever the diploid autosome count is fewer than 16, regardless of sex chromosome system. We also demonstrate the utility of our model by analyzing two contrasting empirical datasets: one from Drosophila and one from the jumping spider genus Habronattus. We find that in the case of Habronattus there is a significant excess of sex chromosome autosome fusions but that in Drosophila there are far fewer sex chromosome autosome fusions than would be expected under our null model.
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/coleoguy/SAGA2)
 
 **Ancestral Condition Test**
@@ -35,6 +43,10 @@ Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of C
 <hr color = '#fff'>
 
 ### Current Projects
+
+Top Secret
+
+### Past Projects
 
 **How much water is in the fountain of youth?** 
 
@@ -52,17 +64,6 @@ Anderson N. W, R. H. Adams, J. P. Demuth, H. Blackmon. Assessing the Impact of C
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Recombination is an important force that impacts response to selection1, genetic variation2, and the fate of introgressed genes3. Experimental evolution experiments have shown that recombination rate can respond to both direct selection4 and strong selection on unrelated traits5. Furthermore, theoretical studies demonstrate that small population size6 and multi-locus selection7 can lead to increased recombination rate. Indeed, indirect selection and small founding populations have been hypothesized as the source of differences in recombination rate between closely related island species of Drosophila8. Domesticated plants have shown a consistent increase in the recombination rate compared to their wild proginators9. Domestication involves both small population sizes and strong multi-locus selection. However, we lack a clear understanding of the respective contribution of small population size and selection acting individually, and any interaction when they cooccur, to observed increases in recombination rate. Further, long-term trends in recombination rates following change in environment and population size have yet to be empirically explored. Without understanding how recombination rates respond to selective forces, there is little hope of understanding how and why recombination rates vary across the tree of life.  The proposed experiment will allow me to quantify the impacts of population size and indirect selection on the evolution of recombination rates.</q>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Research Proposal](https://drive.google.com/file/d/1pQb7_S9QV1BuahAXSTACTqINgDutQd3r/view?usp=sharing). 
-
-<hr color = '#fff'>
-
-### Competitions 
-
-**On the Origin of Tacos** <br>
-**-Texas A&M Datathon 2019**
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Uncovering the evolutionary relationship between species is a central feature of evolutionary biology. In recent years, this work has been done using sequenced genomes, molecular clocks and phylogenetic comparative methods, however, prior to these advances researchers uncovered the hierarchical species relationships by comparing morphology. Given a dataset describing the tacos sold throughout the United States, we clustered these samples into morphological species based on ingredients and inferred the relationships between these species by constructing a morphological phylogeny using phylogenetic comparative methods. Furthermore, we were able to infer regional populations of our tacos using a kmeans clustering. Surprisingly, our morphological species seemed to be evenly spread throughout the regional populations, and certain species were not favored in any particular regions. Finally, we inferred the evolution of different morphological traits (different ingredients) along our phylogeny and were able to observe the species level evolution of taco types and to estimate the ancestral taco type at the root of our phylogenetic tree.</q>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[DevPost Project](https://devpost.com/software/on-the-origins-of-tacos?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team). <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Github](https://github.com/MichelleJonika/datathon2019/tree/master/goldmansachs/final).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Proposal](https://drive.google.com/file/d/1pQb7_S9QV1BuahAXSTACTqINgDutQd3r/view?usp=sharing). 
 
 <hr color = '#fff'>

@@ -8,7 +8,8 @@ title: Who is ready to make some science?
 
 ### Summary
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have been a researcher in the lab of Dr. Heath Blackmon (Dept. of Biology) since 2017. The lab has a broad focus in evolutionary biology but much of the research focuses on sex chromosomes, genome structure, and population genetics. My work has focused on recombination rate evolution, phylogenetics and population genetic modelling, statistical methods for analysis of of trait evolution. Namely, the development of multi locus simulation of sexually antagonistic alleles under complex sex determination and recombination systems, and the statistical analysis of discrete and continuous trait evolution in a phylogenetic framework. I also lead a large scale experimental evolution project studying recombination rate adaptation to multilocus selection and changes in population structure. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am currently developing statistical methods to study the genetic architecture of  gene-environment interactions and adaptations to climate change using the Eurytemora affinis species complex as a model. A special interest in rapid adaptive response to antagonistic (spatially, temporally or sexually) selection. Phylogenetic analysis of complex trait evolution and coevolution between traits. Mathematical modelling of stochastic biological systems. Development of  multilocus models of gene diffusion with ongoing hybridization, migration and complex selective pressures and life histories. Development of computational statistical tests for selection in genome evolution and for coevolution between two traits.
+
 
 <hr color = '#fff'>
 

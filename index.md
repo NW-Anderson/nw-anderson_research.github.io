@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Who is ready to make some science?
+title: N.W. Anderson
 ---
-~ *Cave Johnson*
+**The triumphant vindication of bold theories - are these not the pride and the justification of our life's work?**
+~ *Sherlock Holmes*
 
 <hr color = '#fff'> 
 
 ### Summary
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a diffusion model of background selection. Recent work includes path integral approaches to solve Kimura’s diffusion equation with complex (time and/or frequency dependent) selective pressures and time series statistical methods to study the role of epistasis in rapid adaptation, particularly during adaptation to climate change. A special interest in the rate of turnover in the genetic architecture of diseases in human populations. Previous work on phylogenetic analysis of complex trait evolution and coevolution between traits, mathematical modeling of stochastic biological systems, development of  multilocus models of allele diffusion with ongoing migration, complex selective pressures and abnormal life histories.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am currently developing a diffusion model of background selection. Recent work includes path integral approaches to solve Kimura’s diffusion equation with complex (time and/or frequency dependent) selective pressures and time series statistical methods to study the role of epistasis in rapid adaptation, particularly during adaptation to climate change. I have a special interest in the rate of turnover in the genetic architecture of diseases in human populations. Previous work includes phylogenetic analysis of complex trait evolution and coevolution between traits, mathematical modeling of stochastic biological systems, development of  multilocus models of allele diffusion with ongoing migration, complex selective pressures and abnormal life histories.
 
 
 

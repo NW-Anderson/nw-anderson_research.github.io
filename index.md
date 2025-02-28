@@ -42,7 +42,8 @@ Armstrong A, N. W. Anderson, H. Blackmon. Inferring the potentially complex gene
 
 **Probability of Sex-Autosome Fusions**
 
-Anderson N.W., C. E. Hjelmen and H. Blackmon. The Probability of Fusions Joining Sex Chromosomes and Autosomes. Biology Letters. Accepted.
+Anderson N.W., C. E. Hjelmen and H. Blackmon. The Probability of Fusions Joining Sex Chromosomes and Autosomes. Biology Letters. 2020; 16:11. <https://doi.org/10.1098/rsbl.2020.0648>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<q style='display:inline-block; width:1000px; margin-left: 32px'>Chromosome fusion and fission are primary mechanisms of karyotype evolution. In particular, the fusion of a sex chromosome and an autosome has been proposed as a mechanism to resolve intralocus sexual antagonism. If sexual antagonism is common throughout the genome, we should expect to see an excess of fusions that join sex chromosomes and autosomes. Here, we present a null model that provides the probability of a sex chromosome autosome fusion, assuming all chromosomes have an equal probability of being involved in a fusion. This closed-form expression is applicable to both male and female heterogametic sex chromosome systems and can accommodate unequal proportions of fusions originating in males and females. We find that over 25% of all chromosomal fusions are expected to join a sex chromosome and an autosome whenever the diploid autosome count is fewer than 16, regardless of sex chromosome system. We also demonstrate the utility of our model by analyzing two contrasting empirical datasets: one from Drosophila and one from the jumping spider genus Habronattus. We find that in the case of Habronattus there is a significant excess of sex chromosome autosome fusions but that in Drosophila there are far fewer sex chromosome autosome fusions than would be expected under our null model.
  
